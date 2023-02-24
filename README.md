@@ -1,6 +1,6 @@
 # AI for Medicine Specialization - deeplearning.ai
 
-This repository contains all the materials used during this specialization. This specialization is divided into three courses. Each course is divided in weeks and aims to teach us new AI techniques to apply in real-world cases.
+This repository contains all the materials used during this specialization. This specialization is divided into three courses. Each course is divided into weeks and aims to teach us new AI techniques to apply in real-world cases.
 
 | Course | Title |
 | ------ | ----- |
