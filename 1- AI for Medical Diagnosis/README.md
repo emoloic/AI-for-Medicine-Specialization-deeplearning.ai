@@ -6,6 +6,7 @@ While AI has the potential to improve medical diagnosis, it is important to note
 This course is divided in 3 weeks, each week with its goal.
 
 | Week | Goal |
+| ---- | ---- |
 | [Week 1](./Week1) | Disease Detection with Computer Vision |
 | [Week 2](./Week2) | Evaluating Models |
 | [Week 3](./Week3) | Image Segmentation on MRI Images |
