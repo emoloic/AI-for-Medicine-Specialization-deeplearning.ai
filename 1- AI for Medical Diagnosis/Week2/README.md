@@ -8,3 +8,5 @@ In this Week 2, we will practice implementing standard evaluation metrics to see
 - Calculate sensitivity and specificity
 - Calculate Positive Predictive Value (PPV) and Negative Predictive Value (NPV).
 - Understand confidence intervals, ROC curve, and F1 score.
+
+**Note:** Before completing the assignment for the week, all labs must be completed.

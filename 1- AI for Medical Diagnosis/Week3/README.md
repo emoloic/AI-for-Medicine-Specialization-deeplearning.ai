@@ -10,3 +10,5 @@ In this Week 3, we will prepare 3D MRI data, implement an appropriate loss funct
 - Apply a pre-trained U-Net model.
 - Implement a proper loss function for model training (soft dice loss).
 - Evaluate model performance by calculating sensitivity and specificity.
+
+**Note:** Before completing the assignment for the week, all labs must be completed.
